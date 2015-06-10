@@ -1,0 +1,2509 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.5)  6 JUN 2015 20:09
+entering extended mode
+**allergorithm*ver.4.29.tex
+("C:\Users\ÌïúÏ†ïÏö∞\Desktop\All\allergorithm ver.4.29.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 458.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is an 11 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count95
+\Gm@cntv=\count96
+\c@Gm@tempcnt=\count97
+\Gm@bindingoffset=\dimen127
+\Gm@wd@mp=\dimen128
+\Gm@odd@mp=\dimen129
+\Gm@even@mp=\dimen130
+\Gm@layoutwidth=\dimen131
+\Gm@layoutheight=\dimen132
+\Gm@layouthoffset=\dimen133
+\Gm@layoutvoffset=\dimen134
+\Gm@dimlist=\toks16
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\ÌïúÏ†ïÏö∞\Desktop\All\allergorithm ver.4.29.aux"
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+-- Lines per column: 40 (approximate, difference = 4.1216pt).
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen135
+\scratchbox=\box28
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen136
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks18
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: twoside 
+* h-part:(L,W,R)=(53.66089pt, 449.12924pt, 80.49138pt)
+* v-part:(T,H,B)=(77.74286pt, 650.68967pt, 116.61432pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.12924pt
+* \textheight=650.68967pt
+* \oddsidemargin=-4.38274pt
+* \evensidemargin=8.22139pt
+* \topmargin=-26.81876pt
+* \headheight=12.0pt
+* \headsep=20.29163pt
+* \topskip=13.3846pt
+* \footskip=51.53868pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=12.04605pt plus 5.35374pt minus 2.67686pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+** WARNING: \and is valid only when in conference or peerreviewca
+modes (line 28).
+Missing character: There is no ‚ in font ptmb7t!
+Missing character: There is no Ä in font ptmb7t!
+Missing character: There is no ú in font ptmb7t!
+Missing character: There is no ‚ in font ptmb7t!
+Missing character: There is no Ä in font ptmb7t!
+Missing character: There is no ù in font ptmb7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 A con-tin-u-ously in-creas-ing num-ber of
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 Al-lergy re-search for ex-am-ple, peanuts,
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 eggs, wheat, peaches, crab foods with
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 in-gre-di-ents that cause al-ler-gies, etc., in
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 to fa-tal con-se-quences. For ex-am-ple, in
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 over-seas be-cause of ac-ci-den-tal in-ges-tion
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 42--47
+\OT1/ptm/m/n/12 in-dus-trial prod-ucts have been dis-played,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+
+ []
+
+<s1.jpg, id=8, 616.55344pt x 546.54187pt>
+File: s1.jpg Graphic file (type jpg)
+ <use s1.jpg>
+Package pdftex.def Info: s1.jpg used on input line 60.
+(pdftex.def)             Requested size: 224.56503pt x 325.34239pt.
+
+Overfull \hbox (6.00041pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 48--64
+\OT1/ptm/m/n/12 2. el-e-men-tary stu-dents al-ler-gic con-di-tion
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 48--64
+\OT1/ptm/m/n/12 3. Get-ting in-for-ma-tion from the school
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 48--64
+\OT1/ptm/m/n/12 7. En-ter stu-dent in-for-ma-tion and menu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--64
+
+ []
+
+[2] <s2.jpg, id=12, 634.62094pt x 563.85657pt>
+File: s2.jpg Graphic file (type jpg)
+ <use s2.jpg>
+Package pdftex.def Info: s2.jpg used on input line 72.
+(pdftex.def)             Requested size: 224.5609pt x 357.88147pt.
+
+Overfull \hbox (5.99628pt too wide) in paragraph at lines 72--73
+ [][] 
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 65--79
+\OT1/ptm/m/n/12 9. Teach-ers mes-sen-ger pro-grams (cool
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 65--79
+\OT1/ptm/m/n/12 11. The spe-cific method of de-liv-er-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--79
+
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 65--79
+\OT1/ptm/m/n/12 13. Check-ing that in-for-ma-tion has been
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--79
+
+ []
+
+[3 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/s1.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/s2.j
+pg>] <s3.jpg, id=16, 723.45282pt x 532.23843pt>
+File: s3.jpg Graphic file (type jpg)
+ <use s3.jpg>
+Package pdftex.def Info: s3.jpg used on input line 82.
+(pdftex.def)             Requested size: 224.56612pt x 325.35527pt.
+
+Overfull \hbox (6.0015pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+<s4.jpg, id=17, 488.57532pt x 325.96782pt>
+File: s4.jpg Graphic file (type jpg)
+ <use s4.jpg>
+Package pdftex.def Info: s4.jpg used on input line 93.
+(pdftex.def)             Requested size: 224.56845pt x 390.44815pt.
+
+Overfull \hbox (6.00383pt too wide) in paragraph at lines 93--94
+ [][] 
+ []
+
+<s5.jpg, id=18, 418.56375pt x 319.1925pt>
+File: s5.jpg Graphic file (type jpg)
+ <use s5.jpg>
+Package pdftex.def Info: s5.jpg used on input line 104.
+(pdftex.def)             Requested size: 224.55849pt x 195.20879pt.
+
+Overfull \hbox (5.99387pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 86--111
+\OT1/ptm/m/n/12 14. Al-ler-gic pre-ven-tion ed-u-ca-tion(parents
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--111
+
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 86--111
+\OT1/ptm/m/n/12 dam-age hap-pened due to the lack of
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 86--111
+\OT1/ptm/m/n/12 oc-curs (database up-date / fur-nish-ing the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--111
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 2837) has occurred while \output is active []
+
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<s6.jpg, id=19, 675.27281pt x 491.58656pt>
+File: s6.jpg Graphic file (type jpg)
+ <use s6.jpg>
+Package pdftex.def Info: s6.jpg used on input line 114.
+(pdftex.def)             Requested size: 224.56145pt x 325.35574pt.
+
+Overfull \hbox (5.99683pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4
+
+ <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/s3.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/s4.jpg
+>]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 6380) in paragraph at lines 127--136
+[]\OT1/ptm/m/n/12 Operating sys-tems used pri-mar-ily in
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 el-e-men-tary school is win-dows XP, 7,
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 8.1. There-fore, when test-ing a pro-gram
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 is ex-cel-lent. So we chose the win-dows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 plat-form. And we chose Java as a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 pro-gram-ming lan-guage. Be-cause JAVA
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 is an object-oriented lan-guage. Java has
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 database is ama-zon ec2 de-vel-oper. This
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 school. An el-e-men-tary school has one
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 127--136
+\OT1/ptm/m/n/12 com-put-ers spec-i-fi-ca-tion is ap-prox-i-mately
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--136
+
+ []
+
+[5 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/s5.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/s6.j
+pg>] <java.jpg, id=26, 291.0875pt x 174.6525pt>
+File: java.jpg Graphic file (type jpg)
+ <use java.jpg>
+Package pdftex.def Info: java.jpg used on input line 140.
+(pdftex.def)             Requested size: 179.64894pt x 107.7904pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--150
+
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 or write files from the hard drive, and
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 takes the se-cu-rity model a step fur-ther.
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 It makes se-cu-rity lev-els and re-stric-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 highly con-fig-urable and ex-tends them
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 a Jav-aBeans com-po-nent, or a com-plete
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 of the se-cu-rity promises Java makes, it
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 137--150
+\OT1/ptm/m/n/12 main-stream plat-form can make se-cu-rity
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+<mysql.jpg, id=27, 225.84375pt x 225.84375pt>
+File: mysql.jpg Graphic file (type jpg)
+ <use mysql.jpg>
+Package pdftex.def Info: mysql.jpg used on input line 164.
+(pdftex.def)             Requested size: 179.64894pt x 179.65863pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 169.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 169.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 169.
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Æ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Æ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ñ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+<windowbuilder.jpg, id=28, 160.6pt x 100.375pt>
+File: windowbuilder.jpg Graphic file (type jpg)
+ <use windowbuilder.jpg>
+Package pdftex.def Info: windowbuilder.jpg used on input line 175.
+(pdftex.def)             Requested size: 179.64894pt x 112.28442pt.
+
+<eclipse.jpg, id=29, 225.84375pt x 225.84375pt>
+File: eclipse.jpg Graphic file (type jpg)
+ <use eclipse.jpg>
+Package pdftex.def Info: eclipse.jpg used on input line 189.
+(pdftex.def)             Requested size: 134.74014pt x 134.7457pt.
+
+<jsmooth.jpg, id=30, 258.9675pt x 103.38625pt>
+File: jsmooth.jpg Graphic file (type jpg)
+ <use jsmooth.jpg>
+Package pdftex.def Info: jsmooth.jpg used on input line 203.
+(pdftex.def)             Requested size: 179.64894pt x 71.72307pt.
+
+Underfull \hbox (badness 2486) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 The network-centric de-sign of the Java
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 it be-comes an in-ter-act-ing col-lec-tion of
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 in-de-pen-dent soft-ware com-po-nents. Thus,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 used pro-gram-ming lan-guage that has
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 While most pro-gram-ming lan-guages use
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 8-bit char-ac-ters that rep-re-sent only the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 lan-guages, Java uses 16-bit Uni-code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 char-ac-ters that rep-re-sent the pho-netic
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 fea-tures are not re-stricted to just low-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 level char-ac-ter rep-re-sen-ta-tion, how-ever.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 other en-vi-ron-ment. Java pro-grams are
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 machine-language in-struc-tions. The Java
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 Vir-tual Ma-chine runs a Java pro-gram
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 by in-ter-pret-ing these portable byte-code
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 Java pro-grams are faster than pro-grams
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 or scripts writ-ten in purely in-ter-preted
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 lan-guages, but they are typ-i-cally slower
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 than C and C++ pro-grams com-piled to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 as the string-manipulation methods--are
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 im-ple-mented us-ing na-tive ma-chine code.
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 in-clude a just-in-time com-piler, which
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 in-creases pro-gram-mer ef-fi-ciency. Be-cause
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 Java is a sim-ple and el-e-gant lan-guage
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 Vac-uum Cleaner uses ob-sta-cle de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 priv-i-leges to in-di-vid-u-als. Pass-words are
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 database com-peti-tors, such as $\OML/cmm/m/it/12 Sybase\OMS/cm
+sy/m/n/12 $
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 and $\OML/cmm/m/it/12 Oracle\OMS/cmsy/m/n/12 $\OT1/ptm/m/n/12 
+. How-ever, de-spite hav-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 sys-tems, in-clud-ing Nov-ell Net-Ware,
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 151--224
+$\OML/cmm/m/it/12 Windows\OMS/cmsy/m/n/12 $ $\OML/cmm/m/it/12 Linux\OMS/cmsy/m
+/n/12 $\OT1/ptm/m/n/12 , many va-ri-eties of
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 JDBC, ODBC, and script-ing (PHP and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 WindowBuilder is com-posed of SWT
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 with-out spend-ing a lot of time writ-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 to com-plex win-dows; the Java code
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 will be gen-er-ated for you. Eas-ily add
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 con-trols us-ing drag-and-drop, add event
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 prop-er-ties of con-trols us-ing a prop-erty
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 IDEs (RAD, RSA, MyE-clipse, JBuilder,
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 used with-out hav-ing Win-dow-Builder Pro
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 sup-ports free-form code edit-ing (make
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 In com-puter pro-gram-ming, Eclipse is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 an in-te-grated de-vel-op-ment en-vi-ron-ment
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 pro-gram-ming lan-guages: Ada, ABAP, C,
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 Lasso, Lua, Nat-u-ral, Perl, PHP, Pro-log,
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 pack-ages for the soft-ware Math-e-mat-ica.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 De-vel-op-ment en-vi-ron-ments in-clude the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 Eclipse Java de-vel-op-ment tools (JDT)
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 for Java and Scala, Eclipse CDT for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 JSmooth cre-ates stan-dard Win-dows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 151--224
+\OT1/ptm/m/n/12 task main()  while(1)  int A=0, B=0,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--224
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/java.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/mysql.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/w
+indowbuilder.jpg (PNG copy)>]
+Underfull \vbox (badness 1515) has occurred while \output is active []
+
+ [9 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/eclipse.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/Al
+l/jsmooth.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--249
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<ts.jpg, id=49, 594.72188pt x 539.01375pt>
+File: ts.jpg Graphic file (type jpg)
+ <use ts.jpg>
+Package pdftex.def Info: ts.jpg used on input line 253.
+(pdftex.def)             Requested size: 247.02277pt x 390.4254pt.
+
+Overfull \hbox (28.45815pt too wide) in paragraph at lines 253--254
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+<r1.jpg, id=50, 391.4625pt x 317.68687pt>
+File: r1.jpg Graphic file (type jpg)
+ <use r1.jpg>
+Package pdftex.def Info: r1.jpg used on input line 267.
+(pdftex.def)             Requested size: 224.56354pt x 260.29161pt.
+
+Overfull \hbox (5.99892pt too wide) in paragraph at lines 267--268
+ [][] 
+ []
+
+[10 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/ts.jpg>]
+<r2.jpg, id=54, 375.65344pt x 293.59688pt>
+File: r2.jpg Graphic file (type jpg)
+ <use r2.jpg>
+Package pdftex.def Info: r2.jpg used on input line 277.
+(pdftex.def)             Requested size: 224.56839pt x 325.34534pt.
+
+Overfull \hbox (6.00377pt too wide) in paragraph at lines 277--278
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ß in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ´ in font ptmr7t!
+
+Underfull \hbox (badness 1668) in paragraph at lines 282--285
+[]\OT1/ptm/m/n/12 There are menus in DB that can be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+\OT1/ptm/m/n/12 reg-is-tered di-eti-tian. El-e-ments of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+
+ []
+
+<r3.jpg, id=55, 447.17062pt x 317.68687pt>
+File: r3.jpg Graphic file (type jpg)
+ <use r3.jpg>
+Package pdftex.def Info: r3.jpg used on input line 289.
+(pdftex.def)             Requested size: 224.5673pt x 325.37422pt.
+
+Overfull \hbox (6.00269pt too wide) in paragraph at lines 289--290
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/r1.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/r2
+.jpg>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+
+Underfull \hbox (badness 2418) in paragraph at lines 294--296
+\OT1/ptm/m/n/12 name, al-ler-gies num-ber, par-ents 'names,
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 294--296
+\OT1/ptm/m/n/12 stu-dent ta-ble is im-por-tant. For ex-am-ple,
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 294--296
+\OT1/ptm/m/n/12 bar-ley and rice , Mod-ern soup , Pork
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+<oa1.jpg, id=59, 639.89063pt x 457.71pt>
+File: oa1.jpg Graphic file (type jpg)
+ <use oa1.jpg>
+Package pdftex.def Info: oa1.jpg used on input line 311.
+(pdftex.def)             Requested size: 224.56067pt x 325.35352pt.
+
+Overfull \hbox (5.99605pt too wide) in paragraph at lines 311--312
+ [][] 
+ []
+
+<oa2.jpg, id=60, 754.31813pt x 534.49687pt>
+File: oa2.jpg Graphic file (type jpg)
+ <use oa2.jpg>
+Package pdftex.def Info: oa2.jpg used on input line 320.
+(pdftex.def)             Requested size: 224.55919pt x 325.35753pt.
+
+Overfull \hbox (5.99457pt too wide) in paragraph at lines 320--321
+ [][] 
+ []
+
+Missing character: There is no Ì in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ó in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+
+Underfull \hbox (badness 3826) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 let-ters. Re-quired class are $\OML/cmm/m/it/12 Login[]ome$\OT1
+/ptm/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 to menu and stu-dent data to cre-ate a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lp-name = new JLa-bel("allergy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lblAl-lerg-y-Num-ber = new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel $\OML/cmm/m/it/12 lblAllergyNumber[]$ \OT1/ptm/m/n/12 = 
+new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+$\OML/cmm/m/it/12 lblAllergyNumber[]$\OT1/ptm/m/n/12 .setBounds(17, 268,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 Student in-for-ma-tion is sent to database
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 by fol-low-ing code. (name, par-ent name,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lp-name = new JLa-bel("parent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lbl-Par-ent-Mo-bile = new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 lblParentMobile.setBounds(17, 145, 109,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lblTeach-er-Name = new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 lblTeacherName.setBounds(17, 187, 112,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lblTeacher-Mo-bile = new
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 lblTeacherMobile.setBounds(17, 229, 119,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel lblAl-lerg-y-Num-ber = new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 JLabel $\OML/cmm/m/it/12 lblAllergyNumber[]$ \OT1/ptm/m/n/12 = 
+new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+$\OML/cmm/m/it/12 lblAllergyNumber[]$\OT1/ptm/m/n/12 .setBounds(17, 355,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 You have en-tered all of monthly menu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 Through the above code, come take a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+\OT1/ptm/m/n/12 while (rs.next())  $\OML/cmm/m/it/12 stu[]n\OT1/cmr/m/n/12 1$ \
+OT1/ptm/m/n/12 =
+ []
+
+
+Overfull \hbox (2.69423pt too wide) in paragraph at lines 308--463
+$\OML/cmm/m/it/12 stu[]n\OT1/cmr/m/n/12 2$ \OT1/ptm/m/n/12 = Integer.parseInt(r
+s.getString("$\OML/cmm/m/it/12 allerg[] $
+ []
+
+
+Overfull \hbox (2.69423pt too wide) in paragraph at lines 308--463
+$\OML/cmm/m/it/12 stu[]n\OT1/cmr/m/n/12 3$ \OT1/ptm/m/n/12 = Integer.parseInt(r
+s.getString("$\OML/cmm/m/it/12 allerg[] $
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--463
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/r3.jpg>]
+Underfull \vbox (badness 5908) has occurred while \output is active []
+
+
+Underfull \vbox (badness 5908) has occurred while \output is active []
+
+ [13 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/oa1.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/o
+a2.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+<oa3.jpg, id=76, 717.43031pt x 400.49625pt>
+File: oa3.jpg Graphic file (type jpg)
+ <use oa3.jpg>
+Package pdftex.def Info: oa3.jpg used on input line 466.
+(pdftex.def)             Requested size: 224.55768pt x 325.36574pt.
+
+Overfull \hbox (5.99306pt too wide) in paragraph at lines 466--467
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--476
+
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 473--476
+\OT1/ptm/m/n/12 From now on al-lergy num-ber of menu
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 477--499
+[]\OT1/ptm/m/n/12 for(int i=1; i<3; i++)  getAl-num(i);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--499
+\OT1/ptm/m/n/12 textSend($\OML/cmm/m/it/12 result[]n\OT1/cmr/m/n/12 1$\OT1/ptm/
+m/n/12 , $\OML/cmm/m/it/12 result[]n\OT1/cmr/m/n/12 2$\OT1/ptm/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--499
+
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 477--499
+\OT1/ptm/m/n/12 brings al-lergy num-bers, par-ents mo-bile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--512
+[]\OT1/ptm/m/n/12 void getAl-num (int i) throws
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--512
+\OT1/ptm/m/n/12 String query = "SE-LECT name,
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 500--512
+$\OML/cmm/m/it/12 parent[]hone$ \OT1/ptm/m/n/12 FROM $\OML/cmm/m/it/12 student[
+]nfo$ \OT1/ptm/m/n/12 where
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--512
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/oa3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 513--517
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no ¥ in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Í in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ó in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ∂ in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Í in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ∂ in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ¥ in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no û in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ì in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ≠ in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--536
+
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 518--536
+\OT1/ptm/m/n/12 And use fol-low-ing code so as to send
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--536
+\OT1/ptm/m/n/12 sms.setuser("coolsms id", coolsms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--536
+
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 518--536
+\OT1/ptm/m/n/12 SmsMessagePdu pdu = new SmsMes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
+\OT1/ptm/m/n/12 char-ac-ter, make par-ent mo-bile phone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
+
+ []
+
+
+Underfull \vbox (badness 2753) has occurred while \output is active []
+
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no ∞ in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ∞ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+Missing character: There is no ¥ in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ∞ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no Ö in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no É in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no ∞ in font ptmr7t!
+Missing character: There is no Ì in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ß in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ì in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no è in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Ï in font ptmr7t!
+Missing character: There is no ß in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Í in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no Í in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no ∞ in font ptmr7t!
+
+<oa4.jpg, id=80, 714.41907pt x 481.8pt>
+File: oa4.jpg Graphic file (type jpg)
+ <use oa4.jpg>
+Package pdftex.def Info: oa4.jpg used on input line 568.
+(pdftex.def)             Requested size: 224.56354pt x 325.35535pt.
+
+Overfull \hbox (5.99892pt too wide) in paragraph at lines 568--569
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 540--575
+\OT1/ptm/m/n/12 caller in-for-ma-tion, orig-i-nat-ing time, and
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 540--575
+\OT1/ptm/m/n/12 mo-bile phone num-ber in $\OML/cmm/m/it/12 student[]nfo$
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 540--575
+\OT1/ptm/m/n/12 each mo-bile phone num-ber go through
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 540--575
+$\OML/cmm/m/it/12 Student[]nfo$\OT1/ptm/m/n/12 , SMS and SendSMS. class
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--575
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+<do.jpg, id=84, 666.99188pt x 395.97937pt>
+File: do.jpg Graphic file (type jpg)
+ <use do.jpg>
+Package pdftex.def Info: do.jpg used on input line 579.
+(pdftex.def)             Requested size: 224.56572pt x 325.3517pt.
+
+Overfull \hbox (6.0011pt too wide) in paragraph at lines 579--580
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--584
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<m1.jpg, id=85, 724.20563pt x 564.60938pt>
+File: m1.jpg Graphic file (type jpg)
+ <use m1.jpg>
+Package pdftex.def Info: m1.jpg used on input line 588.
+(pdftex.def)             Requested size: 224.55667pt x 325.3457pt.
+
+Overfull \hbox (5.99205pt too wide) in paragraph at lines 588--589
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--600
+[]\OT1/ptm/m/n/12 On the top join, $\OML/cmm/m/it/12 join[]TO$\OT1/ptm/m/n/12 ,
+
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 598--600
+$\OML/cmm/m/it/12 join[]nsertDAO$ \OT1/ptm/m/n/12 are lo-cated. Should be
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 598--600
+\OT1/ptm/m/n/12 and en-ter in-for-ma-tion into database at
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 598--600
+$\OML/cmm/m/it/12 join[]nsertDAO$\OT1/ptm/m/n/12 . There are home and
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 598--600
+\OT1/ptm/m/n/12 en-tered in $\OML/cmm/m/it/12 login[]ome$ \OT1/ptm/m/n/12 id / 
+pw ex-actly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--600
+
+ []
+
+[18 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/oa4.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/do
+.jpg>]
+Underfull \vbox (badness 5924) has occurred while \output is active []
+
+
+<m2.jpg, id=89, 705.38531pt x 490.08093pt>
+File: m2.jpg Graphic file (type jpg)
+ <use m2.jpg>
+Package pdftex.def Info: m2.jpg used on input line 604.
+(pdftex.def)             Requested size: 224.56548pt x 325.35384pt.
+
+Overfull \hbox (6.00085pt too wide) in paragraph at lines 604--605
+ [][] 
+ []
+
+[19 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/m1.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/m2.
+jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 615--620
+\OT1/ptm/m/n/12 ex-am-ine the fol-low-ing stu-dents.Parents
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 615--620
+\OT1/ptm/m/n/12 mo-bile phone num-bers are taken from
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 615--620
+$\OML/cmm/m/it/12 student[]nfo$ \OT1/ptm/m/n/12 in mod-ule 1. And al-lergy
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 615--620
+\OT1/ptm/m/n/12 in-for-ma-tion, cre-ate a warn-ing mes-sage
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 615--620
+\OT1/ptm/m/n/12 by SendSMS to par-ents mo-bile phone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--622
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--624
+
+ []
+
+<usec1.jpg, id=94, 526.96875pt x 647.41875pt>
+File: usec1.jpg Graphic file (type jpg)
+ <use usec1.jpg>
+Package pdftex.def Info: usec1.jpg used on input line 627.
+(pdftex.def)             Requested size: 224.56584pt x 325.34845pt.
+
+Overfull \hbox (6.00122pt too wide) in paragraph at lines 627--628
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<usec2.jpg, id=95, 687.56876pt x 461.725pt>
+File: usec2.jpg Graphic file (type jpg)
+ <use usec2.jpg>
+Package pdftex.def Info: usec2.jpg used on input line 636.
+(pdftex.def)             Requested size: 179.64894pt x 120.63747pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+<usec3.jpg, id=96, 855.195pt x 1023.825pt>
+File: usec3.jpg Graphic file (type jpg)
+ <use usec3.jpg>
+Package pdftex.def Info: usec3.jpg used on input line 645.
+(pdftex.def)             Requested size: 224.56383pt x 240.7395pt.
+
+Overfull \hbox (5.9992pt too wide) in paragraph at lines 645--646
+ [][] 
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+<usec4.jpg, id=97, 127.4361pt x 133.6995pt>
+File: usec4.jpg Graphic file (type jpg)
+ <use usec4.jpg>
+Package pdftex.def Info: usec4.jpg used on input line 654.
+(pdftex.def)             Requested size: 179.64894pt x 188.49794pt.
+
+<usec5.jpg, id=98, 855.195pt x 1023.825pt>
+File: usec5.jpg Graphic file (type jpg)
+ <use usec5.jpg>
+Package pdftex.def Info: usec5.jpg used on input line 663.
+(pdftex.def)             Requested size: 224.56383pt x 325.33421pt.
+
+Overfull \hbox (5.9992pt too wide) in paragraph at lines 663--664
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 and Sign Up but-ton. first, user(teacher)
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 teacher-in-foof database al-ler-gorithm. and
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 631--669
+$\OML/cmm/m/it/12 month[]enu$\OT1/ptm/m/n/12 . $\OML/cmm/m/it/12 Teacher[]nfo$ 
+\OT1/ptm/m/n/12 has teacher's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 ID/Password/name/mobile/phone num-ber.
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 to en-ter in-for-ma-tion are name, par-ent
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 and press save but-ton, in-for-ma-tion are
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 par-ent mo-bile phone num-ber, two kinds
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 in-for-ma-tion sends the in-for-ma-tion to a
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 on $\OML/cmm/m/it/12 student[]nfo$\OT1/ptm/m/n/12 . teacher nam
+e, teacher
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 631--669
+\OT1/ptm/m/n/12 in-for-ma-tion sends the in-for-ma-tion to a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--669
+
+ []
+
+[20 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec1.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/
+usec2.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec3.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All
+/usec4.jpg>] <usec6.jpg, id=105, 687.56876pt x 461.725pt>
+File: usec6.jpg Graphic file (type jpg)
+ <use usec6.jpg>
+Package pdftex.def Info: usec6.jpg used on input line 672.
+(pdftex.def)             Requested size: 179.64894pt x 120.63747pt.
+
+<usec7.jpg, id=106, 511.9125pt x 612.03656pt>
+File: usec7.jpg Graphic file (type jpg)
+ <use usec7.jpg>
+Package pdftex.def Info: usec7.jpg used on input line 681.
+(pdftex.def)             Requested size: 224.56262pt x 260.26619pt.
+
+Overfull \hbox (5.998pt too wide) in paragraph at lines 681--682
+ [][] 
+ []
+
+<usec8.jpg, id=107, 677.53125pt x 451.6875pt>
+File: usec8.jpg Graphic file (type jpg)
+ <use usec8.jpg>
+Package pdftex.def Info: usec8.jpg used on input line 690.
+(pdftex.def)             Requested size: 179.64894pt x 119.76553pt.
+
+<usec9.jpg, id=108, 532.99126pt x 749.80125pt>
+File: usec9.jpg Graphic file (type jpg)
+ <use usec9.jpg>
+Package pdftex.def Info: usec9.jpg used on input line 700.
+(pdftex.def)             Requested size: 179.64894pt x 252.72093pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+<usec10.jpg, id=109, 855.195pt x 1023.825pt>
+File: usec10.jpg Graphic file (type jpg)
+ <use usec10.jpg>
+Package pdftex.def Info: usec10.jpg used on input line 711.
+(pdftex.def)             Requested size: 224.56383pt x 325.33421pt.
+
+Overfull \hbox (5.9992pt too wide) in paragraph at lines 711--712
+ [][] 
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 2941) in paragraph at lines 676--718
+\OT1/ptm/m/n/12 The textbox par-ent mo-bile and teacher
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 676--718
+\OT1/ptm/m/n/12 mo-bile are very im-por-tant. Be-cause we
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 676--718
+\OT1/ptm/m/n/12 you write the stu-dent reg-is-ter-a-tion, this
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 676--718
+\OT1/ptm/m/n/12 stu-dent Han Jeong Woo whose par-ent's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--718
+
+ []
+
+[22 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec5.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/
+usec6.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec7.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec8.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/
+usec9.jpg>] <usec11.jpg, id=116, 677.53125pt x 451.6875pt>
+File: usec11.jpg Graphic file (type jpg)
+ <use usec11.jpg>
+Package pdftex.def Info: usec11.jpg used on input line 721.
+(pdftex.def)             Requested size: 179.64894pt x 119.76553pt.
+
+<usec12.jpg, id=117, 532.99126pt x 749.80125pt>
+File: usec12.jpg Graphic file (type jpg)
+ <use usec12.jpg>
+Package pdftex.def Info: usec12.jpg used on input line 732.
+(pdftex.def)             Requested size: 179.64894pt x 252.72093pt.
+
+<usec13.jpg, id=118, 584.93532pt x 576.65437pt>
+File: usec13.jpg Graphic file (type jpg)
+ <use usec13.jpg>
+Package pdftex.def Info: usec13.jpg used on input line 741.
+(pdftex.def)             Requested size: 224.56262pt x 325.35277pt.
+
+Overfull \hbox (5.998pt too wide) in paragraph at lines 741--742
+ [][] 
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--748
+
+ []
+
+[24 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec10.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All
+/usec11.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec12.jpg>]
+<usec14.jpg, id=122, 855.195pt x 1023.825pt>
+File: usec14.jpg Graphic file (type jpg)
+ <use usec14.jpg>
+Package pdftex.def Info: usec14.jpg used on input line 751.
+(pdftex.def)             Requested size: 224.56383pt x 260.26736pt.
+
+Overfull \hbox (5.9992pt too wide) in paragraph at lines 751--752
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--758
+\OT1/ptm/m/n/12 11.peach 12.tomato. So the database
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--758
+
+ []
+
+[25 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec13.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All
+/usec14.jpg>] <usec15.jpg, id=127, 654.94687pt x 485.56406pt>
+File: usec15.jpg Graphic file (type jpg)
+ <use usec15.jpg>
+Package pdftex.def Info: usec15.jpg used on input line 761.
+(pdftex.def)             Requested size: 224.5578pt x 260.2669pt.
+
+Overfull \hbox (5.99318pt too wide) in paragraph at lines 761--762
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--768
+
+ []
+
+<usec16.jpg, id=128, 642.14906pt x 259.7203pt>
+File: usec16.jpg Graphic file (type jpg)
+ <use usec16.jpg>
+Package pdftex.def Info: usec16.jpg used on input line 771.
+(pdftex.def)             Requested size: 224.55957pt x 260.27052pt.
+
+Overfull \hbox (5.99495pt too wide) in paragraph at lines 771--772
+ [][] 
+ []
+
+<usec17.jpg, id=129, 722.7pt x 1284.8pt>
+File: usec17.jpg Graphic file (type jpg)
+ <use usec17.jpg>
+Package pdftex.def Info: usec17.jpg used on input line 779.
+(pdftex.def)             Requested size: 179.64899pt x 260.2686pt.
+
+<usec18.jpg, id=130, 542.025pt x 963.6pt>
+File: usec18.jpg Graphic file (type jpg)
+ <use usec18.jpg>
+Package pdftex.def Info: usec18.jpg used on input line 787.
+(pdftex.def)             Requested size: 179.64894pt x 319.3711pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--795
+
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 775--795
+\OT1/ptm/m/n/12 signed up the foods for each num-bers.
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 775--795
+\OT1/ptm/m/n/12 re-set the sender's num-ber. The pro-gram
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--795
+
+ []
+
+[26 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec15.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All
+/usec16.jpg> <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec17.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 797.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 797.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <C:/Users/ÌïúÏ†ïÏö∞/Desktop/All/usec18.jpg>]
+("C:\Users\ÌïúÏ†ïÏö∞\Desktop\All\allergorithm ver.4.29.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 329 ({)
+### simple group (level 1) entered at line 304 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2667 strings out of 493921
+ 41900 string characters out of 3144865
+ 120943 words of memory out of 3000000
+ 5922 multiletter control sequences out of 15000+200000
+ 40025 words of font info for 75 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 27i,6n,30p,2175b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.
+enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on "allergorithm ver.4.29.pdf" (27 pages, 4377556 bytes).
+PDF statistics:
+ 168 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
